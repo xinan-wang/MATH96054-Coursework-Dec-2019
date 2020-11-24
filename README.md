@@ -10,7 +10,7 @@ Coursework (weighted 25%) of a Year 3 Module Stochastic Simulation at Department
 
 
 ## Contributing
-Pull requests are welcome. For major concerns, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major concerns, please open an issue first to discuss what you would like to know.
 
 ## Course Leader & Marker
 [Prof. Emma McCoy](http://wwwf.imperial.ac.uk/~ejm/)
