@@ -1,5 +1,5 @@
 # MATH96054-Coursework-Dec-2019
-Coursework (weighted 25%) of a Year 3 Module Stochastic Simulation at Department of Mathematics, Imperial College London.
+Coursework (weighted 25%) of the Year 3 Module Stochastic Simulation at Department of Mathematics, Imperial College London.
 
 ## Background
 * Simulation Algorithms
